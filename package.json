@@ -1,0 +1,27 @@
+{
+  "name": "graphql-with-goodreads",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrarShariar/graphql-with-goodreads.git"
+  },
+  "author": "Abrar Shariar <shariarabrar@gmail.com> (https://github.com/abrarShariar)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abrarShariar/graphql-with-goodreads/issues"
+  },
+  "homepage": "https://github.com/abrarShariar/graphql-with-goodreads#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "express": "^4.16.4",
+    "express-graphql": "^0.8.0",
+    "graphql": "^14.3.0",
+    "node-fetch": "^2.5.0",
+    "xml2js": "^0.4.19"
+  }
+}
